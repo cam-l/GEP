@@ -1,1 +1,1 @@
-Sitemap: https://cam-l.github.io/GEP/sitemap.xml
+Sitemap: https://cam-l.github.io//GEP/sitemap.xml
